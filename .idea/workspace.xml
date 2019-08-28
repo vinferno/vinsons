@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1e062a18-e46c-4d9d-81d9-1e884edcf41f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/generators/entity-reducer/entity-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/generators/entity-reducer/entity-reducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566925449248</updated>
       <workItem from="1566925450340" duration="9520000" />
-      <workItem from="1566953902052" duration="16013000" />
+      <workItem from="1566953902052" duration="16622000" />
     </task>
     <servers />
   </component>
