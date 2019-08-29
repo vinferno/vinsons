@@ -17,7 +17,7 @@ const config = {
     }
 };
 
-// print random greeting
+// print name of cli
 console.log(
     // wraps text with rainbow color formatting
     'Vinson'.underline.green
